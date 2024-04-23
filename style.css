@@ -1,0 +1,199 @@
+#c1{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 8px;
+}
+#c2{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 70px;
+  margin-top: -50px;
+}
+#c3{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+#c4{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+#c5{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 180px;
+  margin-top: 100px;
+}
+#c6{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 180px;
+  margin-top: -45px;
+}
+#c7{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 180px;
+  margin-top: 40px;
+}
+#c8{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 210px;
+  margin-top: 10px;
+}
+#c9{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 210px;
+  margin-top: 10px;
+}
+
+body{
+  /* Rectangle 5 */
+
+position: absolute;
+width: 297px;
+height: 842px;
+left: 0px;
+top: 0px;
+
+background: #FFE8E8;
+
+}
+h1{
+  /* Дербилов Дмитрий */
+
+position: absolute;
+width: 131px;
+height: 81px;
+left: 169px;
+top: 83px;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+}
+.a1{
+/* Rectangle 11 */
+
+position: absolute;
+width: 271px;
+height: 209px;
+left: 315px;
+top: 45px;
+
+background: #FFBBBB;
+
+}
+.a2{
+  /* Rectangle 2 */
+
+position: absolute;
+width: 248px;
+height: 171px;
+left: 315px;
+top: 274px;
+
+background: #FFBBBB;
+}
+.a3{
+  /* Rectangle 3 */
+
+position: absolute;
+width: 248px;
+height: 130px;
+left: 315px;
+top: 480px;
+
+background: #FFBBBB;
+}
+.a4{
+  /* Rectangle 4 */
+
+position: absolute;
+width: 248px;
+height: 95px;
+left: 315px;
+top: 652px;
+
+background: #FFBBBB;
+
+}
+.b1{
+/* Rectangle 6 */
+
+position: absolute;
+width: 279px;
+height: 106px;
+left: 8px;
+top: 170px;
+
+background: #FFBBBB;
+
+} 
+.b2{
+/* Rectangle 7 */
+
+position: absolute;
+width: 279px;
+height: 75px;
+left: 8px;
+top: 290px;
+
+background: #FFBBBB;
+
+}
+.b3{
+  /* Rectangle 8 */
+
+position: absolute;
+width: 278px;
+height: 130px;
+left: 8px;
+top: 375px;
+
+background: #FFBBBB;
+}
+.b4{
+  /* Rectangle 9 */
+
+position: absolute;
+width: 278px;
+height: 130px;
+left: 8px;
+top: 517px;
+
+background: #FFBBBB;
+
+}
+.b5{
+  /* Rectangle 10 */
+
+position: absolute;
+width: 278px;
+height: 130px;
+left: 8px;
+top: 682px;
+
+background: #FFBBBB;
+
+}
